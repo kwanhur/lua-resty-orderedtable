@@ -1,6 +1,6 @@
--- Copyright (C) 2016 Kwanhur (huang_hua2012@163.com).
+-- Copyright (C) 2016 kwanhur (huang_hua2012@163.com).
 -- lua-resty-orderedtable -  an ordered table with sorted index
--- https://github.com/Kwanhur/lua-resty-orderedtable
+-- https://github.com/kwanhur/lua-resty-orderedtable
 
 local _M = { _VERSION = '0.0.1' }
 local mt = { __index = _M }

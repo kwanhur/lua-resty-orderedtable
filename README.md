@@ -113,14 +113,14 @@ Installation
 ============
 
 You can install it with [opm](https://github.com/openresty/opm#readme).
-Just like that: opm install Kwanhur/lua-resty-orderedtable
+Just like that: opm install kwanhur/lua-resty-orderedtable
 
 [Back to TOC](#table-of-contents)
 
 Authors
 =======
 
-Kwanhur <huang_hua2012@163.com>, VIPS Inc.
+kwanhur <huang_hua2012@163.com>, VIPS Inc.
 
 [Back to TOC](#table-of-contents)
 
@@ -129,7 +129,7 @@ Copyright and License
 
 This module is licensed under the Apache License Version 2.0 .
 
-Copyright (C) 2016, by Kwanhur <huang_hua2012@163.com>, VIPS Inc.
+Copyright (C) 2016, by kwanhur <huang_hua2012@163.com>, VIPS Inc.
 
 All rights reserved.
 
